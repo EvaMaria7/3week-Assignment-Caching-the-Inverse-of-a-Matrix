@@ -1,3 +1,8 @@
+#############################################
+## Title:   Assignment 2
+## Autor:   Eva María Ortiz Gil. 
+## Date:    19/08/2015
+#############################################
 
 ## set the value of the matrix
 ## get the value of the matrix
